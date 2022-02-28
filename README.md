@@ -6,6 +6,8 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@pikachucreator/pikachu-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/https://github.com/abdo000ho/zhsigsost.git)
-     </div>
+### Chat Number 
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://wa.me/+212691-420825?text=𝒉𝒆𝒆𝒚)
+    </div>
 <br>
 <br >
