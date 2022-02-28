@@ -20,9 +20,9 @@
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@FjgsgFjfcjdgfgj/pikachu-QR-1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@FjgsgFjfcjdgfgj/pikachu-QR-2)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/https://github.com/abdo000ho/zhsigsost.git)           
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abdo000ho/zhsigsost.git)           
 ### The Hard Method
 ```js
 GET QR
